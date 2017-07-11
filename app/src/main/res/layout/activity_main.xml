@@ -11,4 +11,20 @@
         android:text="Creat Database"
         android:textAllCaps="false"
         />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Insert_SQL"
+        android:text="Insert(SQL)"
+        android:textAllCaps="false"
+        />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/Insert_ContentValues"
+        android:text="Insert(ContentValues)"
+        android:textAllCaps="false"
+        />
 </LinearLayout>
